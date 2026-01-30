@@ -2,7 +2,7 @@ pages:
   stage: deploy
   script:
     - mkdir public
-    - cp -r * public
+    - cp -r images pages index.html public
   artifacts:
     paths:
       - public
