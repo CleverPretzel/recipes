@@ -1,5 +1,3 @@
-## Recipes
-
 ## Description
 A collection of simple recipes. To create this project, I used CLI, git, GitLab and HTML.
 
@@ -20,7 +18,7 @@ Not available yet.
 Read recipe. Gather required ingredients. Cook according to cooking instructions. Put into mouth, chew and enjoy.
 
 ## Support
-For any questions email giedrepappas@gmail.com
+For any questions email giedre.klovaite@gmail.com
 
 ## Roadmap
 Once I finish the CSS section, I will be updating this project to include styles.
