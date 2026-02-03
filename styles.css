@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  font: 14px Verdana, "Helvetica";
+}
+
+h1 {
+  font: 32px Garamond, "Times New Roman";
+}
+
+h2 {
+  font: 24px Garamond, "Times New Roman";
+}
+
+h3 {
+  font: 20px Garamond, "Times New Roman";
+}
+
+.desc-and-img-container {
+  width: 100%;
+  display: flex;
+}
+
+.image-container, .desc-container {
+  width: 50%;
+}
+
+.desc-container p {
+  width: 500px;
+}
+
+.caption, a {
+  font-size: 12px;
+}
+
+img {
+  display: block;
+  width: 500px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.image-container .caption {
+  text-align: center;
+}
